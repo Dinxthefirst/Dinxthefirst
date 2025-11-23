@@ -1,4 +1,8 @@
 ### Hi there 🗿
 
 - 🗿 I’m currently studying Computer Science at Aarhus University
+- 🗿 I use neovim, btw
+- 🗿 I use nixos, btw
+- 🗿 Systems coordinator for the advanced interdependence and research methodology team
+- 🗿 Lead team lead on applied workforce strategy and heuristic design
 - 🗿 How to reach me: olivertoftk@live.dk
