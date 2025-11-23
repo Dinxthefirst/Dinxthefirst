@@ -1,8 +1,8 @@
 ### Hi there 🗿
 
 - 🗿 I’m currently studying Computer Science at Aarhus University
-- 🗿 I use neovim (btw)
-- 🗿 I use nixos (btw)
+- 🗿 I use Neovim (btw)
+- 🗿 I use NixOS (btw)
 - 🗿 Systems coordinator for the advanced interdependence and research methodology team
 - 🗿 Lead team lead on applied workforce strategy and heuristic design
 - 🗿 Calculator-first mathematician passionate about numbers and order of operations, focused on crafting quantifiable outcomes
