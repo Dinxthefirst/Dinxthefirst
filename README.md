@@ -21,6 +21,7 @@
 - CSS
 - HTML
 - Rust
+- Zig
 - Scala
 - Ocaml
 - Rocq
